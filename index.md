@@ -14,3 +14,7 @@ var myVar = "Hello, world!";
 ``` SQL
 Select * from table;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
